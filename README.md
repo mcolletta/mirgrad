@@ -58,4 +58,4 @@ This work is inspired by the following projects:
 
 ### License
 
-MIT - see the [LICENSE](https://github.com/mcolletta/mirgrad/LICENSE) file for details.
+MIT - see the [LICENSE](https://github.com/mcolletta/mirgrad/blob/main/LICENSE) file for details.
